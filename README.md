@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Each section contains information on the following subjects: Git, HTML, CSS and JavaScript which can be added to or modified at any time. When the page is inspected using Chrome DevTools, a suggestion will appear based on a function that suggests a starting topic to explore. This webpage can also be used as a benchmark of where a person began on their coding journey.
+Each section contains information on the following subjects: Git, HTML, CSS and JavaScript which can be added to or modified at any time. When the page is inspected using Chrome DevTools, a suggestion will appear based on a function that suggests a starting topic to explore. This webpage can also be used as a benchmark of where a person began on their coding journey. Any changes or suggestions are welcome!
 
 ## Credits
 
