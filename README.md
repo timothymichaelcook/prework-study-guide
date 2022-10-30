@@ -2,7 +2,7 @@
 
 ## Description
 
-As a boot camp stuent, I wanted a place to store and reference notes on important coding concepts. Before, notes could be unorganized or misplaced. Now, notes are always available on the internet for viewing and modifying. This process taught how to work with tools and languages such as the CLI, Git/Github, Chrome DevTools, HTML, CSS and JavaScript. This process also practiced the notes, as the notes were on webpage building, which is what was being accomplished with this project.
+As a boot camp stuent, I wanted a place to store and reference notes on important coding concepts. Before, notes could be unorganized or misplaced. Now, notes are always available on the internet for viewing and modifying. This process taught how to work with tools and languages such as the CLI, Git/GitHub, Chrome DevTools, HTML, CSS and JavaScript. This process also practiced the notes, as the notes were on webpage building, which is what was being accomplished with this project.
 
 
 ## Installation
